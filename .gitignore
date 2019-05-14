@@ -1,3 +1,4 @@
 *.eps
 *.png
 *.xlsx
+.ipynb_checkpoints
